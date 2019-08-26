@@ -1,0 +1,6 @@
+﻿  CPPServiceEntry.cpp
+  SampleService.cpp
+  ServiceBase.cpp
+  ServiceInstaller.cpp
+  Generating Code...
+  CPlusService.vcxproj -> D:\workspace\windowservice\CPlusService\Debug\CPlusService.exe
